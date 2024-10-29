@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nhentai-api": "^3.4.3",
+    "nhentai-api-js": "^1.1.4",
+    "node-fetch": "^3.3.2",
+    "pdfkit": "^0.15.0"
+  }
+}
